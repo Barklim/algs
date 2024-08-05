@@ -1,0 +1,12 @@
+
+042 -
+https://leetcode.com/tag/hash-table/
+
+045 -cpp-
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/src/Strings/StringHashing.cpp
+
+045 -h-
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/include/Strings/StringHashing.h
+
+045 -
+https://acm.timus.ru/problem.aspx?space=1&num=1297

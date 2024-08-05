@@ -1,0 +1,39 @@
+
+081 -
+https://leetcode.com/tag/heap/
+
+082 -
+https://leetcode.com/tag/heap-priority-queue/
+
+084 -
+https://github.com/levonoganesyan/Algorithms/blob/0cccdae60a6fe8875805dbdacae6c6567cd5ed64/Algorithms/include/Sortings/Sorting.h#L85
+
+085 -
+https://leetcode.com/tag/tree/
+
+087 -
+https://leetcode.com/tag/segment-tree/
+
+088 -
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/include/DataStructures/SegmentTree.h
+
+089 -
+https://leetcode.com/tag/binary-indexed-tree/
+
+090 -
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/include/DataStructures/FenwickTree.h
+
+094 -
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/include/DataStructures/SparseTable.h
+
+095 -Trie
+https://leetcode.com/tag/trie/
+
+096 .h
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/include/DataStructures/Trie.h
+
+096 .cpp
+https://github.com/levonoganesyan/Algorithms/blob/master/Algorithms/src/DataStructures/Trie.cpp
+
+096 -
+https://codeforces.com/gym/100133

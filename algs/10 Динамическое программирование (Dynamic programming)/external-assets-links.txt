@@ -1,0 +1,12 @@
+
+051 -
+https://leetcode.com/tag/dynamic-programming/
+
+051 -sliding-window
+https://leetcode.com/tag/sliding-window/
+
+052 -
+https://acm.timus.ru/problem.aspx?space=1&num=1225
+
+054 -
+https://leetcode.com/tag/sliding-window/
